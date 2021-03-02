@@ -1,1 +1,52 @@
-<mxfile host="app.diagrams.net" modified="2021-03-02T08:30:36.376Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 OPR/74.0.3911.160" version="14.4.3" etag="yyAb1hXp0ovhV8Var4Dc" type="github"><diagram id="oPz1rC21Pdz7JXNOBv5h">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-03-02T09:00:18.453Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 OPR/74.0.3911.160" etag="NExxMnHq5obZ__qaGX6d" version="14.4.3" type="github">
+  <diagram id="oPz1rC21Pdz7JXNOBv5h" name="Page-1">
+    <mxGraphModel dx="998" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="_7aLPu9ptkFJ5N0X6K_4-12" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;" vertex="1" parent="1">
+          <mxGeometry x="19" y="20" width="801" height="540" as="geometry" />
+        </mxCell>
+        <mxCell id="_7aLPu9ptkFJ5N0X6K_4-13" value="Page 1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="_7aLPu9ptkFJ5N0X6K_4-12">
+          <mxGeometry x="60" y="12" width="110" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="_7aLPu9ptkFJ5N0X6K_4-14" value="https://www.draw.io" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;rSize=0;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="_7aLPu9ptkFJ5N0X6K_4-12">
+          <mxGeometry x="130" y="60" width="250" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="_7aLPu9ptkFJ5N0X6K_4-15" value="" style="shape=mxgraph.mockup.containers.marginRect;rectMarginTop=10;strokeWidth=1;dashed=0;rounded=1;arcSize=5;recursiveResize=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="140" width="740" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="_7aLPu9ptkFJ5N0X6K_4-2" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#666666;align=left;fontSize=17;spacingLeft=4;spacingTop=-3;strokeColor=#666666;mainText=" vertex="1" parent="1">
+          <mxGeometry x="90" y="180" width="270" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="_7aLPu9ptkFJ5N0X6K_4-3" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#666666;align=left;fontSize=17;spacingLeft=4;spacingTop=-3;strokeColor=#666666;mainText=" vertex="1" parent="1">
+          <mxGeometry x="490" y="180" width="270" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="_7aLPu9ptkFJ5N0X6K_4-4" value="Расшифровать" style="shape=ellipse;fillColor=#eeeeee;strokeColor=#999999;gradientColor=#cccccc;html=1;align=left;spacingLeft=4;fontSize=17;fontColor=#666666;labelPosition=right;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="470" width="15" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="_7aLPu9ptkFJ5N0X6K_4-5" value="Зашифровать" style="shape=ellipse;fillColor=#eeeeee;strokeColor=#999999;gradientColor=#cccccc;html=1;align=left;spacingLeft=4;fontSize=17;fontColor=#666666;labelPosition=right;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="75" y="470" width="15" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="_7aLPu9ptkFJ5N0X6K_4-6" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#666666;align=left;fontSize=17;spacingLeft=4;spacingTop=-3;strokeColor=#666666;mainText=" vertex="1" parent="1">
+          <mxGeometry x="210" y="400" width="430" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_7aLPu9ptkFJ5N0X6K_4-7" value="&lt;font style=&quot;font-size: 15px&quot;&gt;Преобразовать&lt;/font&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="630" y="470" width="130" height="27.5" as="geometry" />
+        </mxCell>
+        <mxCell id="_7aLPu9ptkFJ5N0X6K_4-8" value="" style="endArrow=open;endFill=1;endSize=12;html=1;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="380" y="269.5" as="sourcePoint" />
+            <mxPoint x="470" y="270" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="470" y="270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_7aLPu9ptkFJ5N0X6K_4-9" value="&lt;font style=&quot;font-size: 17px&quot;&gt;Введите ключ&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="405" width="115" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
